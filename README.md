@@ -36,7 +36,8 @@ LoanAssist is an **AI-driven, end-to-end digital lending assistant** that automa
 
 The architecture follows a **decoupled, API-first design**, allowing independent scaling and easy replacement of demo storage with production databases.
 
-![image](flow_chart.png)
+<img width="852" height="828" alt="image" src="https://github.com/user-attachments/assets/15cbc82e-f573-4b5d-ab06-4456e30d2501" />
+
 
 🔄 End-to-End Flow
 ------------------
@@ -72,3 +73,4 @@ All components are **designed to be production-replaceable**.
 -------------
 
 LoanAssist demonstrates how **agentic AI systems** can automate and modernize loan workflows while maintaining explainability, auditability, and compliance—critical requirements for BFSI applications.
+
